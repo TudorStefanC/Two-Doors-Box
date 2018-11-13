@@ -1,0 +1,114 @@
+body {
+  font-size: 1.4rem;
+}
+
+.nav-item {
+  margin-left: 2rem;
+  font-size: 1.2rem;
+}
+.hero {
+  background-image: url(../img/cloud-banner.jpeg);
+  background-size: cover;
+  background-position: center bottom;
+  padding-top: 35vh;
+  padding-bottom: 45vh;
+}
+.lead-header{
+  font-size: 3rem;
+  color: black;
+  font-weight: 400;
+}
+h1 {
+  color: #404040;
+  font-weight: 300;
+}
+p {
+  color: #555555;
+  font-weight: 200;
+}
+.store {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.logo img {
+  width: 250px;
+  height: 250px;
+}
+.store-text {
+  padding-top: 5vh;
+}
+.parallax {
+  height: 30vmax;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+  display: block;
+}
+.parallax-store {
+ background-image: url(../img/store.jpg); 
+}
+.parallax-see {
+ background-image: url(../img/devices2.jpeg); 
+}
+.devices img {
+  width: 250px;
+  height: 250px;
+}
+.see {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.see-text {
+  padding-top: 5vh;
+}
+.share-padding {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.header-padding {
+  padding-top: 2rem;
+}
+.adventure {
+  background-image: url(../img/adventure2.jpeg);
+  background-size: cover;
+  padding-top: 30vh;
+  padding-bottom: 35vh;
+}
+.logo-img {
+  width: 150px;
+  height: 150px;
+  padding-bottom: 1.5rem;
+}
+.sign-up-home {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.sign-up-h1-padding {
+  padding-bottom: 1.5rem;
+}
+footer {
+  background-color: dimgrey;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.footer-p {
+  color: aliceblue;
+}
+/*start of sign-in css*/
+.sign-in {
+ padding-top: 10rem; 
+}
+.pictogram {
+  width: 250px;  
+  height: 250px;
+}
+/*start of sign-up css*/
+.sign-up {
+ padding-top: 10rem; 
+}
+label {
+  font-size: 16px;
+}
+#emailHelp {
+  font-size: 13px;
+}

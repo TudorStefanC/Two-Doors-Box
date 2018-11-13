@@ -1,0 +1,21 @@
+.files {
+  padding-top: 10vh;
+}
+.hero {
+  padding-top: 10vh;
+}
+h3 {
+  padding-bottom: 5vh;
+}
+table tbody tr:hover{
+   color: #0066ff;
+}
+.folder-padding{
+  padding-right: 5px;
+}
+.right-section {
+  padding-top: 10vh;
+}
+.img-hover:hover{
+  border: 2px solid #0066ff;
+}
